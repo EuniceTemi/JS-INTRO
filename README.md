@@ -1,2 +1,2 @@
 # JS-INTRO
-[Github link](https://github.com/EuniceTemi/JS-INTRO)
+[Github link](https://eunicetemi.github.io/JS-INTRO/)
